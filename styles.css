@@ -1,0 +1,24 @@
+h1{
+    background-color: blue;
+}
+
+h2{
+    background-color: green;
+}
+
+.greeting{
+    font-size: 2em;
+}
+
+#only-table{
+    background-color: aqua;
+}
+
+hr{
+    border-style: dotted;
+    
+    border-width: 1rem;
+    border-bottom: none;
+    border-left: none;
+    border-right:none;
+}
